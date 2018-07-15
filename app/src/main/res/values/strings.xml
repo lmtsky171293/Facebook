@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="sign_up">Sign Up For Facebook</string>
+    <string name="login">LOGIN</string>
+    <string name="input_user">Input User Name</string>
+    <string name="input_password">Input Password</string>
+    <string name="forgot">Forgot Password</string>
+</resources>
